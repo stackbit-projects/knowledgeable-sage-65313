@@ -153,7 +153,7 @@ sections:
           - pb-4
           - pl-4
           - pr-4
-        justifyContent: flex-end
+        justifyContent: center
       quote:
         textAlign: left
       name:
