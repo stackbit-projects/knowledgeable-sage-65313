@@ -12,7 +12,7 @@ sections:
         label: Get Started
         url: /
         style: primary
-        iconPosition: right
+        iconPosition: left
       - type: Button
         label: Learn More
         url: /
