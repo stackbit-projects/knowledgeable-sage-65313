@@ -12,6 +12,7 @@ sections:
         label: Get Started
         url: /
         style: primary
+        iconPosition: right
       - type: Button
         label: Learn More
         url: /
