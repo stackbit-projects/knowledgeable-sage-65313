@@ -131,8 +131,8 @@ sections:
   - elementId: ''
     colors: colors-c
     quote: >
-      ### This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.
+      ### This is someone else, not from our team, but she also loves fishing,
+      so we thought we should highlight her.
     backgroundImage:
       url: /images/fishing.jpg
       altText: ''
@@ -153,7 +153,7 @@ sections:
           - pb-4
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-end
       quote:
         textAlign: left
       name:
