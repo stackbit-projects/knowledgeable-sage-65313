@@ -13,7 +13,7 @@ sections:
         url: /
         style: primary
         iconPosition: left
-        showIcon: true
+        showIcon: false
       - type: Button
         label: Learn More
         url: /
