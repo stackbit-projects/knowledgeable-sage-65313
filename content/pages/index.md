@@ -154,7 +154,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderColor: border-primary
+        borderColor: border-neutral
       quote:
         textAlign: left
       name:
